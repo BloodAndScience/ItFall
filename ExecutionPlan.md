@@ -5,6 +5,7 @@
 0. Create A plan
 1. Describe the the Problem
 
+
 2. Detect most crutial Part
 	- Write down all ideas.
         - Determin which of them will have the bigest positive influence for project.

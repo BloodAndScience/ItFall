@@ -24,6 +24,19 @@
 - Sell to investors
     - Found and check the problem
 
+### Insparation 
+
+- Tech lead
+- Mark Zukerberg
+- Brain Tracy
+- Motivational speaches
+- Neuroscience
+- Eduard
+- That canadian guy 
+- Hackathons in general
+
+
+
 ### The problems
 
 - Hard to start.
