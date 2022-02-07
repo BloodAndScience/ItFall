@@ -4,6 +4,11 @@ How productive worker is .
 
 *Data Driven Aproach* 
 
+## Goal
+
+Create *Codex*(rutine and set of rules).
+That will give **MAX PRODUCTIVITY* for IT specialist.
+
 ## Quesions
 
 - How to mesure productivity? 
@@ -16,8 +21,6 @@ How productive worker is .
 - Extreme programing?
 - Pair programming?
 
-
-
 ## Ideas
 
 - Neurofeedback
@@ -29,9 +32,12 @@ How productive worker is .
 - Biohackinga?
 - Sahara Usef 
 - Food that enhance Neuro transmiters
-
-
-## Sources
-
-## Todo
+- Sport physical 
+- Work Flow (Unninterupted work)
+- Mediation ()
+- Foucus music()
+- Keto diet
+- Work Place (massge chair)
+- Psychology coaching
+- Riturals
 
