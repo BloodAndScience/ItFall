@@ -1,5 +1,9 @@
 # Scheduale
 
+## Agreement
+
+- If till end of February project didn't get exteran founding in size `10,000$+`
+    Me and Yana dosen't do projects togethere till end of 2022.
 
 ## PoC : Profe of the Concept
 

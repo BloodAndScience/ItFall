@@ -1,8 +1,13 @@
 # Productivity 
 
-How productive worker is .
+How productive IT worker is?
 
 *Data Driven Aproach* 
+
+## Insparation 
+
+- TechLead from Youtube
+- Personal Experiance in military licium.
 
 ## Goal
 
@@ -40,4 +45,8 @@ That will give **MAX PRODUCTIVITY* for IT specialist.
 - Work Place (massge chair)
 - Psychology coaching
 - Riturals
+- CEO Interview
+- NO Social Media
+- No Video Games 
+- 48 hour scaduale
 
