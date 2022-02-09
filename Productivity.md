@@ -26,6 +26,7 @@ That will give **MAX PRODUCTIVITY* for IT specialist.
 
 - Scrum/Agile  ? 
 - Extreme programing?
+    - Work Place was in the book ""
 - TDD ? 
 - Pair programming?
 
@@ -36,6 +37,15 @@ A,B,C,D,E
 A0,A1,A2,
 
 ## Ideas
+
+- Work Place for Software Egineer
+    - I mean Optimal productity work place I personally notice couple of things
+	- Uniform
+	- Work standing or laying down
+	- Minimalism
+	- No Distruction (remove personal phone with notification)
+- Extreme Programming book
+- Brain tracy books
 
 - Neurofeedback
 - tDCS
