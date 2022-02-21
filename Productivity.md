@@ -44,12 +44,12 @@ A0,A1,A2,
 	- Work standing or laying down
 	- Minimalism
 	- No Distruction (remove personal phone with notification)
-- Extreme Programming book
-- Brain tracy books
 
 - Neurofeedback
 - tDCS
 - Dr. Sahar Yousef 
+- Brain tracy books
+- Extreme Programming book
 - Sahara Usef 
 - Work Flow (Unninterupted work)
 - Food that enhance Neuro transmiters

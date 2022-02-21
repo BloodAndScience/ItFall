@@ -1,0 +1,27 @@
+{
+  "name": "itfalls",
+  "version": "1.0.0",
+  "description": "- itFall\r - FallBackLine",
+  "main": "index.js",
+  "dependencies": {
+    "bespoke": "^1.1.0",
+    "bespoke-theme-simple-slide": "^0.1.0",
+    "merp": "^1.0.0"
+  },
+  "devDependencies": {
+    "@marp-team/marp-cli": "^1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BloodAndScience/ItFall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BloodAndScience/ItFall/issues"
+  },
+  "homepage": "https://github.com/BloodAndScience/ItFall#readme"
+}
